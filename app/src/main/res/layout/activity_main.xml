@@ -17,7 +17,7 @@
 
     <TextView
         android:id="@+id/ramText"
-        android:text="RAM: Yükleniyor..."
+        android:text="RAM: Yukleniyor..."
         android:textSize="16sp"
         android:textColor="#AAAAAA"
         android:layout_width="wrap_content"

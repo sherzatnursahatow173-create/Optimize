@@ -7,7 +7,6 @@ import android.os.Handler
 import android.os.Looper
 import androidx.appcompat.app.AppCompatActivity
 import android.widget.*
-import rikka.shizuku.Shizuku
 
 class MainActivity : AppCompatActivity() {
     private lateinit var ramText: TextView
